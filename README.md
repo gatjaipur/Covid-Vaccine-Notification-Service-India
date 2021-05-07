@@ -1,5 +1,7 @@
 Covid Vaccine India Notification Service helps you to find the available vaccination slots based on your pincode and age. If the slot is found, it will keep sending you the email every minute about the vaccine availability.
 
+Steps:
+
 Enable app access on gmail and get App Password for you gmail account:
 https://support.google.com/accounts/answer/185833?p=InvalidSecondFactor&visit_id=637554658548216477-2576856839&rd=1  
 
